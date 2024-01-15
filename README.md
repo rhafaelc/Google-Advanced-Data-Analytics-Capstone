@@ -13,7 +13,7 @@ Tools used:
 4. [Result](#4-result)
 
 # 1. Introduction
-This is a case study for completing [Google Data Advanced Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics). In this case study, you work for a fictional company, Salifort Motors. The task is to deploy different models to analyze a dataset and generate business insights for your stakeholders. They have the following question: what’s likely to make the employee leave the company?
+This is a case study for completing [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics). In this case study, you work for a fictional company, Salifort Motors. The task is to deploy different models to analyze a dataset and generate business insights for your stakeholders. They have the following question: what’s likely to make the employee leave the company?
 
 # 2. Scenario
 The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company. They collected data from employees, but now they don’t know what to do with it. They refer to you as a data analytics professional and ask you to provide data-driven suggestions based on your understanding of the data.
